@@ -1,6 +1,7 @@
 #pragma once
 #include "cliente.hpp"
 
+/*Agrupamento dos métodos presentes em conta_bancaria.cpp*/
 class ContaBancaria {
 private:
     int numero;

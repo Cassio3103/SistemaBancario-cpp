@@ -4,6 +4,9 @@ using std::string;
 using std::cout;
 using std::cin;
 
+/*Classe cliente que cria um objeto cliente para ser usado como
+uma variável.
+Recebe nomes e cpf's*/
 class Cliente {
     private:
         string nome;

@@ -2,6 +2,7 @@
 #include <string>
 using std::string;
 
+/*Arquivo cabeçalho com as mesmas informações do cliente.cpp*/
 class Cliente{
     private: 
         string nome;
